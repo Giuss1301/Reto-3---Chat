@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Se completó la app de conversión de monedas bajo las indicaciones recibidas, adicionalmente se hizo reajuste de vistas y funcionalidades
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

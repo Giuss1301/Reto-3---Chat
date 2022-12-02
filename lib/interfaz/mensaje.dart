@@ -20,6 +20,9 @@ class _mensajesState extends State<mensajes> {
     return StreamBuilder(
         stream: resp_consulta,
         builder: (context, AsyncSnapshot<QuerySnapshot> respuesta) {
+          if (!respuesta.hasData) {
+            return const Center(child: CircularProgressIndicator());
+          }
           return ListView.builder(
             itemCount: respuesta.data!.docs.length,
             itemBuilder: (BuildContext context, int index) {
