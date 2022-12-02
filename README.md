@@ -4,6 +4,22 @@ A new Flutter project.
 
 Se completó la app de conversión de monedas bajo las indicaciones recibidas, adicionalmente se hizo reajuste de vistas y funcionalidades
 
+Entrega presentada por:
+
+Mileimis Elles Barrios
+
+Carlos Rios Mendoza
+
+Jeremias Pajaro P
+
+(Los otros compañeros no manifestaron interes en participar en el proyecto)
+
+
+https://user-images.githubusercontent.com/48127006/205189524-7a8067d4-542d-4f38-9ea4-44c3810bfcfb.mp4
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
